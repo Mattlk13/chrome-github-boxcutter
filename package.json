@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/truenorth/github-boxcutter",
   "dependencies": {
-    "jquery": "^3"
+    "jquery": "^3.5.0"
   }
 }
